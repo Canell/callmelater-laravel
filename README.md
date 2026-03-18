@@ -2,6 +2,11 @@
 
 A fluent Laravel SDK for [CallMeLater](https://callmelater.io) - schedule durable HTTP calls and interactive reminders.
 
+## Requirements
+
+- PHP 8.2+
+- Laravel 10, 11, 12, or 13
+
 ## Installation
 
 ```bash
